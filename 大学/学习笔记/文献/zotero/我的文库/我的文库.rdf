@@ -1,0 +1,306 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2/Deng_Masked_Face_Recognition_Challenge_The_InsightFace_Track_Report_ICCVW_2021_paper.pdf"/>
+        <dc:title>Deng_Masked_Face_Recognition_Challenge_The_InsightFace_Track_Report_ICCVW_2021_paper.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/基于卷积LSTM的视频中Deepfake检测方法_李永强.pdf"/>
+        <dc:title>基于卷积LSTM的视频中Deepfake检测方法_李永强.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/基于伪造缺陷与语义对比的deepfake检测_汪高健.pdf"/>
+        <dc:title>基于伪造缺陷与语义对比的deepfake检测_汪高健.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2103.02406">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Hanqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Wenbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Dongdong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Tianyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Weiming</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Nenghai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_34"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Multi-attentional Deepfake Detection</dc:title>
+        <dcterms:abstract>Face forgery by deepfake is widely spread over the internet and has raised severe societal concerns. Recently, how to detect such forgery contents has become a hot research topic and many deepfake detection methods have been proposed. Most of them model deepfake detection as a vanilla binary classiﬁcation problem, i.e, ﬁrst use a backbone network to extract a global feature and then feed it into a binary classiﬁer (real/fake). But since the difference between the real and fake images in this task is often subtle and local, we argue this vanilla solution is not optimal. In this paper, we instead formulate deepfake detection as a ﬁne-grained classiﬁcation problem and propose a new multi-attentional deepfake detection network. Speciﬁcally, it consists of three key components: 1) multiple spatial attention heads to make the network attend to different local parts; 2) textural feature enhancement block to zoom in the subtle artifacts in shallow features; 3) aggregate the low-level textural feature and high-level semantic features guided by the attention maps. Moreover, to address the learning difﬁculty of this network, we further introduce a new regional independence loss and an attention guided data augmentation strategy. Through extensive experiments on different datasets, we demonstrate the superiority of our method over the vanilla binary classiﬁer counterparts, and achieve state-of-the-art performance. The models will be released recently at https://github.com/yoctta/ multiple-attention.</dcterms:abstract>
+        <dc:date>2021-03-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2103.02406</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-09 10:20:18</dcterms:dateSubmitted>
+        <dc:description>arXiv:2103.02406 [cs]</dc:description>
+        <prism:number>arXiv:2103.02406</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_36">
+       <rdf:value>Comment: CVPR2021 preview</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/Zhao 等 - 2021 - Multi-attentional Deepfake Detection.pdf"/>
+        <dc:title>Zhao 等 - 2021 - Multi-attentional Deepfake Detection.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2105.00187">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the Web Conference 2021</dc:title>
+                <dc:identifier>DOI 10.1145/3442381.3449809</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tariq</foaf:surname>
+                        <foaf:givenName>Shahroz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Sangyup</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woo</foaf:surname>
+                        <foaf:givenName>Simon S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44"/>
+        <link:link rdf:resource="#item_45"/>
+        <link:link rdf:resource="#item_46"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Cryptography and Security</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>I.4.9</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>I.5.4</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework</dc:title>
+        <dcterms:abstract>Deep learning-based video manipulation methods have become widely accessible to the masses. With little to no effort, people can quickly learn how to generate deepfake (DF) videos. While deep learning-based detection methods have been proposed to identify specific types of DFs, their performance suffers for other types of deepfake methods, including real-world deepfakes, on which they are not sufficiently trained. In other words, most of the proposed deep learning-based detection methods lack transferability and generalizability. Beyond detecting a single type of DF from benchmark deepfake datasets, we focus on developing a generalized approach to detect multiple types of DFs, including deepfakes from unknown generation methods such as DeepFake-in-the-Wild (DFW) videos. To better cope with unknown and unseen deepfakes, we introduce a Convolutional LSTM-based Residual Network (CLRNet), which adopts a unique model training strategy and explores spatial as well as the temporal information in deepfakes. Through extensive experiments, we show that existing defense methods are not ready for real-world deployment. Whereas our defense method (CLRNet) achieves far better generalization when detecting various benchmark deepfake methods (97.57% on average). Furthermore, we evaluate our approach with a high-quality DeepFake-in-the-Wild dataset, collected from the Internet containing numerous videos and having more than 150,000 frames. Our CLRNet model demonstrated that it generalizes well against high-quality DFW videos by achieving 93.86% detection accuracy, outperforming existing state-of-the-art defense methods by a considerable margin.</dcterms:abstract>
+        <dc:date>2021-04-19</dc:date>
+        <z:shortTitle>One Detector to Rule Them All</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2105.00187</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-11 11:40:22</dcterms:dateSubmitted>
+        <dc:description>arXiv:2105.00187 [cs]</dc:description>
+        <bib:pages>3625-3637</bib:pages>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_44">
+        <rdf:value>Comment: 14 pages, 8 Figures, 6 Tables, Accepted for publication in The Web Conference WWW 2021</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/45/2105.html"/>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2105.00187</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-11 11:40:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/Tariq et al_2021_One Detector to Rule Them All.pdf"/>
+        <dc:title>Tariq et al_2021_One Detector to Rule Them All.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2105.00187.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-11 11:40:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2009.07480">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tariq</foaf:surname>
+                        <foaf:givenName>Shahroz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Sangyup</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woo</foaf:surname>
+                        <foaf:givenName>Simon S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_50"/>
+        <link:link rdf:resource="#item_48"/>
+        <link:link rdf:resource="#item_49"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>I.4.9</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>I.5.4</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multimedia</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Convolutional LSTM based Residual Network for Deepfake Video Detection</dc:title>
+        <dcterms:abstract>In recent years, deep learning-based video manipulation methods have become widely accessible to masses. With little to no effort, people can easily learn how to generate deepfake videos with only a few victims or target images. This creates a significant social problem for everyone whose photos are publicly available on the Internet, especially on social media websites. Several deep learning-based detection methods have been developed to identify these deepfakes. However, these methods lack generalizability, because they perform well only for a specific type of deepfake method. Therefore, those methods are not transferable to detect other deepfake methods. Also, they do not take advantage of the temporal information of the video. In this paper, we addressed these limitations. We developed a Convolutional LSTM based Residual Network (CLRNet), which takes a sequence of consecutive images as an input from a video to learn the temporal information that helps in detecting unnatural looking artifacts that are present between frames of deepfake videos. We also propose a transfer learning-based approach to generalize different deepfake methods. Through rigorous experimentations using the FaceForensics++ dataset, we showed that our method outperforms five of the previously proposed state-of-the-art deepfake detection methods by better generalizing at detecting different deepfake methods using the same model.</dcterms:abstract>
+        <dc:date>2020-09-16</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2009.07480</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-11 11:42:19</dcterms:dateSubmitted>
+        <dc:description>arXiv:2009.07480 [cs]</dc:description>
+        <prism:number>arXiv:2009.07480</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_50">
+        <rdf:value>&lt;div data-citation-items=&quot;%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%2C%22type%22%3A%22article%22%2C%22abstract%22%3A%22In%20recent%20years%2C%20deep%20learning-based%20video%20manipulation%20methods%20have%20become%20widely%20accessible%20to%20masses.%20With%20little%20to%20no%20effort%2C%20people%20can%20easily%20learn%20how%20to%20generate%20deepfake%20videos%20with%20only%20a%20few%20victims%20or%20target%20images.%20This%20creates%20a%20significant%20social%20problem%20for%20everyone%20whose%20photos%20are%20publicly%20available%20on%20the%20Internet%2C%20especially%20on%20social%20media%20websites.%20Several%20deep%20learning-based%20detection%20methods%20have%20been%20developed%20to%20identify%20these%20deepfakes.%20However%2C%20these%20methods%20lack%20generalizability%2C%20because%20they%20perform%20well%20only%20for%20a%20specific%20type%20of%20deepfake%20method.%20Therefore%2C%20those%20methods%20are%20not%20transferable%20to%20detect%20other%20deepfake%20methods.%20Also%2C%20they%20do%20not%20take%20advantage%20of%20the%20temporal%20information%20of%20the%20video.%20In%20this%20paper%2C%20we%20addressed%20these%20limitations.%20We%20developed%20a%20Convolutional%20LSTM%20based%20Residual%20Network%20(CLRNet)%2C%20which%20takes%20a%20sequence%20of%20consecutive%20images%20as%20an%20input%20from%20a%20video%20to%20learn%20the%20temporal%20information%20that%20helps%20in%20detecting%20unnatural%20looking%20artifacts%20that%20are%20present%20between%20frames%20of%20deepfake%20videos.%20We%20also%20propose%20a%20transfer%20learning-based%20approach%20to%20generalize%20different%20deepfake%20methods.%20Through%20rigorous%20experimentations%20using%20the%20FaceForensics%2B%2B%20dataset%2C%20we%20showed%20that%20our%20method%20outperforms%20five%20of%20the%20previously%20proposed%20state-of-the-art%20deepfake%20detection%20methods%20by%20better%20generalizing%20at%20detecting%20different%20deepfake%20methods%20using%20the%20same%20model.%22%2C%22note%22%3A%22arXiv%3A2009.07480%20%5Bcs%5D%22%2C%22number%22%3A%22arXiv%3A2009.07480%22%2C%22publisher%22%3A%22arXiv%22%2C%22source%22%3A%22arXiv.org%22%2C%22title%22%3A%22A%20Convolutional%20LSTM%20based%20Residual%20Network%20for%20Deepfake%20Video%20Detection%22%2C%22URL%22%3A%22http%3A%2F%2Farxiv.org%2Fabs%2F2009.07480%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Tariq%22%2C%22given%22%3A%22Shahroz%22%7D%2C%7B%22family%22%3A%22Lee%22%2C%22given%22%3A%22Sangyup%22%7D%2C%7B%22family%22%3A%22Woo%22%2C%22given%22%3A%22Simon%20S.%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222024%22%2C1%2C11%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222020%22%2C9%2C16%5D%5D%7D%2C%22citation-key%22%3A%22tariqConvolutionalLSTMBased2020%22%7D%7D%5D&quot; data-schema-version=&quot;8&quot;&gt;&lt;p&gt;生成名人和群众的虚假视频[ 11、13、14、23]，为此存在大量的方法[ 15、25、40、41]&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FTTR9RXVQ%22%2C%22pageLabel%22%3A%228%22%2C%22position%22%3A%7B%22pageIndex%22%3A7%2C%22rects%22%3A%5B%5B69.234%2C537.317%2C295.121%2C543.838%5D%2C%5B69.234%2C529.347%2C206.499%2C535.868%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%7D&quot;&gt;“FaceSwapDevs. [n.d.]. Deepfakes_faceswap - GitHub Repository. https://github. com/deepfakes/faceswap. Accessed: 2019-11-05.”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Tariq 等, 2020, p. 8&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FTTR9RXVQ%22%2C%22pageLabel%22%3A%228%22%2C%22position%22%3A%7B%22pageIndex%22%3A7%2C%22rects%22%3A%5B%5B69.234%2C306.184%2C294.497%2C312.705%5D%2C%5B69.234%2C298.214%2C210.384%2C304.735%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%7D&quot;&gt;“Marek Kowalski. 2016. FaceSwap - GitHub Repository. https://github.com/ MarekKowalski/FaceSwap. Accessed: 2020-02-12.”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Tariq 等, 2020, p. 8&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FTTR9RXVQ%22%2C%22pageLabel%22%3A%228%22%2C%22position%22%3A%7B%22pageIndex%22%3A7%2C%22rects%22%3A%5B%5B333.391%2C537.317%2C559.382%2C543.838%5D%2C%5B333.391%2C529.347%2C558.205%2C535.868%5D%2C%5B333.182%2C521.377%2C351.844%2C527.898%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%7D&quot;&gt;“Justus Thies, Michael Zollhöfer, and Matthias Nießner. 2019. Deferred Neural Rendering: Image Synthesis using Neural Textures. arXiv preprint arXiv:1904.12356 (2019).”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Tariq 等, 2020, p. 8&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight&quot; data-annotation=&quot;%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FTTR9RXVQ%22%2C%22pageLabel%22%3A%228%22%2C%22position%22%3A%7B%22pageIndex%22%3A7%2C%22rects%22%3A%5B%5B333.391%2C513.407%2C558.199%2C519.928%5D%2C%5B333.391%2C505.436%2C558.2%2C511.957%5D%2C%5B333.391%2C497.466%2C558.655%2C503.987%5D%2C%5B333.391%2C489.496%2C356.091%2C496.017%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%7D&quot;&gt;“Justus Thies, Michael Zollhöfer, Marc Stamminger, Christian Theobalt, and Matthias Nießner. 2018. Face2Face: Real-time Face Capture and Reenactment of RGB Videos. Commun. ACM 62, 1 (Dec. 2018), 96–104. https://doi.org/10.1145/ 3292039”&lt;/span&gt; &lt;span class=&quot;citation&quot; data-citation=&quot;%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F13348888%2Fitems%2FHKZ6VPQA%22%5D%2C%22locator%22%3A%228%22%7D%5D%2C%22properties%22%3A%7B%7D%7D&quot;&gt;(&lt;span class=&quot;citation-item&quot;&gt;Tariq 等, 2020, p. 8&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/48/2009.html"/>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2009.07480</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-11 11:42:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/49/Tariq et al_2020_A Convolutional LSTM based Residual Network for Deepfake Video Detection.pdf"/>
+        <dc:title>Tariq et al_2020_A Convolutional LSTM based Residual Network for Deepfake Video Detection.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2009.07480.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-11 11:42:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/51/基于非关键掩码和注意力机制...度伪造人脸篡改视频检测方法_俞洋.pdf"/>
+        <dc:title>基于非关键掩码和注意力机制...度伪造人脸篡改视频检测方法_俞洋.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>deepfake文献</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
+        <dcterms:hasPart rdf:resource="#item_9"/>
+        <dcterms:hasPart rdf:resource="#item_15"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2103.02406"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2105.00187"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.07480"/>
+        <dcterms:hasPart rdf:resource="#item_51"/>
+    </z:Collection>
+</rdf:RDF>

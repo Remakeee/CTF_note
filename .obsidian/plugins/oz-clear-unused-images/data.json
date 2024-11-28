@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "book_study/公安专业知识",
+  "ribbonIcon": true,
+  "excludeSubfolders": false
+}

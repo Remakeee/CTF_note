@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "文献/zotero",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "formatted-citation",
+      "cslStyle": "chicago-note-bibliography"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "导入笔记",
+      "outputPathTemplate": "zoteronote/{{citekey}}.md",
+      "imageOutputPathTemplate": "文献/图片{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "模板/zotero-integration.md",
+      "cslStyle": "chicago-note-bibliography"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

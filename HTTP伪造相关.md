@@ -1,0 +1,1 @@
+[CTF web入门——HTTP头相关的----修改请求头、伪造Cookie类题目——Bugku Web题目详细题解_cookie base题解-CSDN博客](https://blog.csdn.net/weixin_44953600/article/details/107515973)

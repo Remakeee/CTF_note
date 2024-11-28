@@ -1,0 +1,12 @@
+{
+  "accentColor": "#6c6ae2",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "Inter",
+  "translucency": false,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "enlarge-image-on-hover"
+  ],
+  "theme": "obsidian"
+}

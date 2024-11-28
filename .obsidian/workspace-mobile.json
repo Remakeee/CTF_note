@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "71bb0785a2cdd13f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4199a14da412e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0288f3eddb80f2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公安专业知识/笔记/28 办理治安行政案件能力.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a55816db3a0c29e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9eedc0db72ec6a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "153c9c7f8346b470",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "541d98682cccf8ab",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e8a7cdfc95426133",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "20d541113e5b2538",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "410d8be6f12b6a89",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8f63b62e781cdd1a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f8feb77e4be9c5a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "公安专业知识/笔记/28 办理治安行政案件能力.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0cd0df4f0ecbcfbb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "公安专业知识/笔记/28 办理治安行政案件能力.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "81386fc59b7ab261",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "公安专业知识/笔记/28 办理治安行政案件能力.md"
+          }
+        }
+      },
+      {
+        "id": "b0c23082f35eab4b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "obsidian-wordpress:WordPress Publish": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0288f3eddb80f2df",
+  "lastOpenFiles": [
+    "公安专业知识/笔记/29 办理刑事案件能力.md",
+    "未命名.md",
+    "工作日记/日/2023-11-15.md",
+    "工作日记/日/2023-11-14.md",
+    "python/Deep_Learning/img/img_1.png",
+    "工作日记/日/2023-11-11.md",
+    "python/machinelearninginaction/Ch15/svmDat26",
+    "python/machinelearninginaction/Ch02/kNN.py",
+    "python/machinelearninginaction/Ch08/setHtml/lego10179.html",
+    "python/machinelearninginaction/Ch07/adaboost.py",
+    "python/machinelearninginaction/Ch08/setHtml/lego10181.html",
+    "python/machinelearninginaction/Ch08/setHtml/lego10030.html",
+    "python/machinelearninginaction/Ch08/regression.py",
+    "python/machinelearninginaction/Ch11/apriori.pyc",
+    "python/machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt",
+    "python/machinelearninginaction/Ch10/kMeans.py",
+    "工作日记/日/2023-11-10.md",
+    "公安专业知识/笔记/刑事诉讼法_课.md",
+    "工作日记/日/2023-10-25.md",
+    "python/machinelearninginaction/Ch10/Portland.png",
+    "公安专业知识/资料/《治安管理处罚法》.md",
+    "公安专业知识/笔记/22 国家安全法.md",
+    "公安专业知识/笔记/26 治安管理处罚法.md",
+    "大四上没用的东西/张磊案_最终.canvas",
+    "公安专业知识/笔记/19 民法.md",
+    "公安专业知识/笔记/23 公安机关组织管理条例.md",
+    "公安专业知识/笔记/21 反恐怖主义法.md",
+    "公安专业知识/笔记/Untitled database.md",
+    "公安专业知识/错题.md",
+    "申论/申论.md",
+    "工作日记/日/2023-09-25.md",
+    "公安专业知识/笔记/24 娱乐场所管理条例.md",
+    "公安专业知识/笔记/25 行政处罚法.md",
+    "公安专业知识/资料/《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》.md",
+    "工作日记/日/图片/Pasted image 20231012154552.png",
+    "公安专业知识/资料/《民法典》.md",
+    "工作日记/日/2023-10-12.md",
+    "操作系统/HelloOS/install.md",
+    "工作日记/日/2023-09-22.md",
+    "工作日记/日/2023-09-11.md",
+    "行政职业能力测验/图片/Pasted image 20231009194634.png",
+    "行政职业能力测验/图片/Pasted image 20231010082428.png",
+    "行政职业能力测验/图片/Pasted image 20231010082641.png",
+    "行政职业能力测验/图片/Pasted image 20231009192422.png",
+    "行政职业能力测验/图片/Pasted image 20231009192932.png",
+    "行政职业能力测验/图片/Pasted image 20231010082559.png",
+    "行政职业能力测验/图片/Pasted image 20231009192333.png",
+    "大四上没用的东西/张磊案.canvas",
+    "Pytorch_中文手册/未命名.canvas",
+    "大四上没用的东西/证人证言.canvas",
+    "Pytorch_中文手册/未命名 1.canvas",
+    "大四上没用的东西/王文军案一审.canvas",
+    "大四上没用的东西/未命名.canvas",
+    "Untitled.canvas",
+    "模板/未命名.canvas",
+    "公安专业知识/笔记/未命名.canvas"
+  ]
+}

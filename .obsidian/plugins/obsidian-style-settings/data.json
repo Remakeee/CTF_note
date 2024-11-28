@@ -1,0 +1,9 @@
+{
+  "floating-toc-styles@@floating-toc-background-color@@light": "#0F12C1F2",
+  "floating-toc-styles@@floating-toc-background-color@@dark": "#E7DEDE66",
+  "floating-toc-styles@@floating-toc-response-time": 0,
+  "floating-toc-styles@@toggle-floating-toc-header-color": true,
+  "floating-toc-styles@@floating-toc-color-h1@@light": "#E70606",
+  "floating-toc-styles@@enable-heading-nowrap": true,
+  "floating-toc-styles@@floating-toc-font-size": 1
+}

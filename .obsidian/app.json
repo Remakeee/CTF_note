@@ -1,0 +1,19 @@
+{
+  "attachmentFolderPath": "./图片",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false,
+  "livePreview": true,
+  "useTab": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

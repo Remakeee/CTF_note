@@ -1,0 +1,354 @@
+{
+  "main": {
+    "id": "d253d99fd24a6cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "512ca0368fc1c235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c834d9e628cb66e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网安/misc/编码扩展.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "编码扩展"
+            }
+          },
+          {
+            "id": "832209e4ec0a873b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFsomething/Tool.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tool"
+            }
+          },
+          {
+            "id": "4c8ae107dd144cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日记/日/2024-11-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-28"
+            }
+          },
+          {
+            "id": "30b28954350a739e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file_get_contents().md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "file_get_contents()"
+            }
+          },
+          {
+            "id": "d1ad3d21fd7e26ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL-labs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL-labs"
+            }
+          },
+          {
+            "id": "87f240f2dee592be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUGKU平台.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BUGKU平台"
+            }
+          },
+          {
+            "id": "5eb4505fcc0a33db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RCE(远程代码执行渗透与防御).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RCE(远程代码执行渗透与防御)"
+            }
+          },
+          {
+            "id": "e6eb34397d13d1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSRF.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSRF"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deef765ed7b80088",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f9cde8fba0ec1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96a692d887da3c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "77aec09551565483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "54f4dd9038d61505",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "1fdcc0e01aec2d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c1822e29633516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67741b6dacc0e38a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "9e534958d8bda5d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文件上传.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "文件上传 的反向链接列表"
+            }
+          },
+          {
+            "id": "cd6b388a8d620da5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "文件上传.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "文件上传 的出链列表"
+            }
+          },
+          {
+            "id": "46cb46cd7f0f8ca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ffac78dbf4f0e4ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a987ebd3304f2e81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "文件上传.md"
+              },
+              "icon": "lucide-list",
+              "title": "文件上传 的大纲"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-wordpress:发布到 WordPress": false,
+      "dbfolder:创建一个新数据库表": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "87f240f2dee592be",
+  "lastOpenFiles": [
+    "图片/Pasted image 20241128190622.png",
+    "图片/Pasted image 20241128185838.png",
+    "图片/Pasted image 20241128185550.png",
+    "SQL注入.md",
+    "SQL-labs.md",
+    "SQL速查表.md",
+    "XEE.md",
+    "SSRF漏洞.md",
+    "CTFsomething/Tool.md",
+    "CTFsomething/Readme.md",
+    "CTFsomething/portswigger.md",
+    "CTFsomething/CTFhub.md",
+    "CTFsomething/未命名.md",
+    "BUGKU平台.md",
+    "图片/Pasted image 20241128175642.png",
+    "图片/Pasted image 20241128174911.png",
+    "工作日记/日/2024-11-28.md",
+    "工作日记/日/2024-11-26.md",
+    "图片/Pasted image 20241126223901.png",
+    "MD5弱比较.md",
+    "RCE(远程代码执行渗透与防御).md",
+    "图片/Pasted image 20241126213609.png",
+    "图片/Pasted image 20241126213546.png",
+    "图片/Pasted image 20241126212938.png",
+    "图片/Pasted image 20241126212905.png",
+    "图片/Pasted image 20241126212842.png",
+    "HTTP伪造相关.md",
+    "file_get_contents().md",
+    "文件上传（根据upload-labs）.md",
+    "文件包含.md",
+    "php变量.md",
+    "网安/信息收集/Readme.md",
+    "工作日记/日/2024-11-25.md",
+    "CSRF.md",
+    "中间件漏洞.md",
+    "JWT渗透和防御.md",
+    "未归纳",
+    "网安/Android安全/Android软件安全与逆向分析_带书签.pdf",
+    "vuln03-CSRF漏洞-笔记.pdf",
+    "工作日记/日",
+    "工作日记",
+    "CTFsomething",
+    "vuln03-CSRF漏洞-笔记.pdf.crdownload",
+    "大学/学习笔记/学年论文_没用的水印/Fourier Transform.ipynb",
+    "大学/取证/火眼证据分析软件用户手册.pdf",
+    "大学/取证/雷电APP智能分析用户手册.pdf"
+  ]
+}

@@ -1,0 +1,7 @@
+[Deng_Masked_Face_Recognition_Challenge_The_InsightFace_Track_Report_ICCVW_2021_paper](zotero/我的文库/files/2/Deng_Masked_Face_Recognition_Challenge_The_InsightFace_Track_Report_ICCVW_2021_paper.pdf)
+[基于卷积LSTM的视频中Deepfake检测方法_李永强](zotero/我的文库/files/9/基于卷积LSTM的视频中Deepfake检测方法_李永强.pdf)
+[基于伪造缺陷与语义对比的deepfake检测_汪高健](zotero/我的文库/files/15/基于伪造缺陷与语义对比的deepfake检测_汪高健.pdf)
+[Zhao 等 - 2021 - Multi-attentional Deepfake Detection](zotero/我的文库/files/34/Zhao%20等%20-%202021%20-%20Multi-attentional%20Deepfake%20Detection.pdf)
+[Tariq et al_2021_One Detector to Rule Them All](zotero/我的文库/files/46/Tariq%20et%20al_2021_One%20Detector%20to%20Rule%20Them%20All.pdf)
+[Tariq et al_2020_A Convolutional LSTM based Residual Network for Deepfake Video Detection](zotero/我的文库/files/49/Tariq%20et%20al_2020_A%20Convolutional%20LSTM%20based%20Residual%20Network%20for%20Deepfake%20Video%20Detection.pdf)
+[基于非关键掩码和注意力机制...度伪造人脸篡改视频检测方法_俞洋](zotero/我的文库/files/51/基于非关键掩码和注意力机制...度伪造人脸篡改视频检测方法_俞洋.pdf)
