@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 [SQL注入](SQL注入.md)
 # less-1
 - 数字型

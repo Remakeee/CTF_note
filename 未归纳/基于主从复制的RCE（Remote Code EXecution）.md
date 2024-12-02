@@ -2,4 +2,4 @@
 [【安全研究】Redis基于主从复制的RCE - FreeBuf网络安全行业门户](https://www.freebuf.com/vuls/266262.html)
 
 
-[中间件漏洞](../中间件漏洞.md)
+[中间件漏洞](../网安/web安全/中间件漏洞.md)

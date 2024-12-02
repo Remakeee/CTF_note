@@ -313,3 +313,7 @@ SQL 注入的报错注入（Error-Based SQL Injection）是一种通过诱使数
 4. **最小化数据库用户权限**：确保应用用户的数据库权限最低，避免访问系统表如 `information_schema`。
 
 通过适当的防护措施可以防止报错注入，从而保障数据库安全。
+
+
+
+[[CTFsomething/SQL_PLUS]]
