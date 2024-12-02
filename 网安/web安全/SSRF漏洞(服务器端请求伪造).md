@@ -1,3 +1,8 @@
+---
+tags:
+  - CTF
+  - web
+---
 [从0到1完全掌握 SSRF - FreeBuf网络安全行业门户](https://www.freebuf.com/articles/web/333318.html)
 
 

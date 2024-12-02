@@ -8,6 +8,24 @@ database-plugin: basic
 name: new database
 description: new description
 columns:
+  column1:
+    input: text
+    key: column1
+    accessorKey: column1
+    label: Column 1
+    position: 0
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
   __file__:
     key: __file__
     id: __file__
@@ -18,11 +36,11 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 4
+    position: 0
     isHidden: false
     sortIndex: 1
     isSorted: true
-    isSortedDesc: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -32,14 +50,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  newColumn2:
-    input: text
-    accessorKey: newColumn2
-    key: newColumn2
-    id: newColumn2
-    label: New Column 2
-    position: 1
+  __created__:
+    key: __created__
+    id: __created__
+    input: metadata_time
+    label: Created
+    accessorKey: __created__
+    isMetadata: true
+    isDragDisabled: false
     skipPersist: false
+    csvCandidate: true
+    position: 0
     isHidden: false
     sortIndex: -1
     config:
@@ -61,7 +82,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 2
+    position: 0
     isHidden: false
     sortIndex: -1
     config:
@@ -73,17 +94,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __outlinks__:
-    key: __outlinks__
-    id: __outlinks__
-    input: outlinks
-    label: Outlinks
-    accessorKey: __outlinks__
+  __tags__:
+    key: __tags__
+    id: __tags__
+    input: metadata_tags
+    label: File Tags
+    accessorKey: __tags__
     isMetadata: true
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 3
+    position: 0
     isHidden: false
     sortIndex: -1
     config:
@@ -97,24 +118,24 @@ columns:
       persist_changes: false
 config:
   remove_field_when_delete_column: false
-  cell_size: normal
+  cell_size: compact
   sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: false
+  show_metadata_created: true
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: true
-  show_metadata_outlinks: true
-  show_metadata_tags: false
+  show_metadata_outlinks: false
+  show_metadata_tags: true
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 
-  pagination_size: 10
+  pagination_size: 200
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

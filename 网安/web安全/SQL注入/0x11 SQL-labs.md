@@ -1,8 +1,10 @@
 ---
 tags:
   - SQL
+  - CTF
+title: SQL-labs
 ---
-[SQL注入](SQL注入.md)
+[0x13 SQL注入](0x13%20SQL注入.md)
 # less-1
 - 数字型
 ![](图片/Pasted%20image%2020241103182158.png)
@@ -72,7 +74,7 @@ http://localhost/sqli-labs/Less-2/?id=-1%20union%20select%201,%202,%20(select%20
 # less-5
 无页面回显点 但是有报错回显
 ![](图片/Pasted%20image%2020241104181803.png)
-[猜解](SQL注入.md#^b4610c)
+[猜解](0x13%20SQL注入.md#^b4610c)
 # less-6
 与less-5同理 id 闭合方式不同
 

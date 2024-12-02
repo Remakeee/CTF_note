@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "编码扩展"
             }
           },
           {
@@ -26,24 +28,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFsomething/Tool.md",
-                "mode": "source",
+                "file": "网安/web安全/SQL注入/0x11 SQL-labs.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "0x11 SQL-labs"
             }
           },
           {
-            "id": "4c8ae107dd144cdd",
+            "id": "39e2fba9cc6f324f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日记/日/2024-11-28.md",
-                "mode": "source",
+                "file": "dataview/未命名 1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "187a7e19aaf004bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网安/未命名.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -56,7 +77,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "file_get_contents()"
             }
           },
           {
@@ -65,32 +88,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php变量.md",
-                "mode": "preview",
+                "file": "CTFsomething/Readme（by e搏杯）.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Readme（by e搏杯）"
             }
           },
           {
             "id": "c55a0367411401e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "CTFsomething/SQL速查表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aae90d68ab6c7b3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+                "file": "网安/web安全/0x01 web_database.md"
+              },
+              "icon": "database-folder-icon",
+              "title": "0x01 web_database"
             }
           },
           {
@@ -99,11 +115,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RCE(远程代码执行渗透与防御).md",
+                "file": "网安/web安全/RCE(远程代码执行渗透与防御).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "RCE(远程代码执行渗透与防御)"
             }
           },
           {
@@ -112,11 +130,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSRF.md",
+                "file": "网安/web安全/CSRF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CSRF"
             }
           }
         ],
@@ -140,7 +160,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -149,13 +171,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#inresnetv2",
+                "query": "爆破",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -163,14 +187,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 343.5
   },
   "right": {
     "id": "1fdcc0e01aec2d11",
@@ -185,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -194,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFsomething/SQL速查表.md",
+                "file": "CTFsomething/Readme（by e搏杯）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +230,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Readme（by e搏杯） 的反向链接列表"
             }
           },
           {
@@ -211,10 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFsomething/SQL速查表.md",
+                "file": "CTFsomething/Readme（by e搏杯）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Readme（by e搏杯） 的出链列表"
             }
           },
           {
@@ -225,7 +257,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -237,7 +271,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -246,8 +282,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFsomething/SQL速查表.md"
-              }
+                "file": "CTFsomething/Readme（by e搏杯）.md"
+              },
+              "icon": "lucide-list",
+              "title": "Readme（by e搏杯） 的大纲"
             }
           }
         ],
@@ -262,7 +300,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -282,60 +322,60 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
       "periodic-notes:Open today": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-wordpress:发布到 WordPress": false,
       "dbfolder:创建一个新数据库表": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c55a0367411401e1",
+  "active": "d1ad3d21fd7e26ec",
   "lastOpenFiles": [
-    "CTFsomething/SQL-labs.md",
-    "CTFsomething/SQL_PLUS.md",
+    "网安/Readme_网安.md",
+    "CTFsomething/Readme（by e搏杯）.md",
+    "CTFsomething/Tool.md",
+    "CTFsomething/Untitled database.md",
+    "PHP伪协议.md",
     "PHP函数.md",
     "php变量.md",
-    "addslashes.md",
-    "PHP伪协议.md",
-    "网安/web安全/Untitled database.md",
-    "工作日记/日/2024-11-18.md",
+    "网安/未命名.md",
+    "网安/misc/信息收集.md",
+    "网安/misc/文件基础.md",
+    "dataview/未命名 1.md",
+    "网安/web安全/SQL注入/0x13 SQL注入.md",
+    "网安/web安全/SQL注入/0x12 SQL速查表.md",
+    "网安/web安全/SQL注入/0x11 SQL-labs.md",
+    "网安/web安全/SQL注入/0x10 SQL_PLUS.md",
     "密码爆破.md",
+    "苹果密码破解.md",
+    "未归纳/Redis密码爆破.md",
+    "[CISCN2019 华北赛区 Day1 Web5]CyberPunk.md",
+    "phpinfo.me/domain.md",
+    "dataview/Obsidian 达人成长之路.md",
+    "dataview/readme.md",
+    "dataview/未命名.md",
+    "网安/web安全/SQL注入/未命名.md",
+    "dataview",
+    "网安/web安全/文件包含.md",
     "网安/web安全/逻辑漏洞.md",
-    "网安/web安全/Readme.md",
-    "CTFsomething/Untitled database.md",
-    "CTFsomething/Readme.md",
+    "网安/web安全/SQL注入",
+    "图片/Pasted image 20241202193038.png",
+    "图片/Pasted image 20241202192235.png",
     "网安/web安全",
-    "CTFsomething/Tool.md",
-    "CTFsomething/portswigger.md",
-    "CTFsomething/CTFhub.md",
-    "CTFsomething/SQL注入.md",
-    "CTFsomething/SQL速查表.md",
     "图片/Pasted image 20241201092651.png",
     "图片/Pasted image 20241201092635.png",
-    "工作日记/日/2024-12-01.md",
-    "BUGKU平台.md",
     "图片/Pasted image 20241128190622.png",
     "图片/Pasted image 20241128185838.png",
     "图片/Pasted image 20241128185550.png",
-    "XEE.md",
-    "SSRF漏洞.md",
-    "CTFsomething/未命名.md",
     "图片/Pasted image 20241128175642.png",
     "图片/Pasted image 20241128174911.png",
-    "工作日记/日/2024-11-28.md",
-    "工作日记/日/2024-11-26.md",
     "图片/Pasted image 20241126223901.png",
-    "MD5弱比较.md",
-    "图片/Pasted image 20241126213609.png",
-    "图片/Pasted image 20241126213546.png",
     "未归纳",
     "网安/Android安全/Android软件安全与逆向分析_带书签.pdf",
     "vuln03-CSRF漏洞-笔记.pdf",
     "工作日记/日",
     "工作日记",
     "CTFsomething",
-    "vuln03-CSRF漏洞-笔记.pdf.crdownload",
-    "大学/学习笔记/学年论文_没用的水印/Fourier Transform.ipynb",
-    "大学/取证/火眼证据分析软件用户手册.pdf"
+    "vuln03-CSRF漏洞-笔记.pdf.crdownload"
   ]
 }

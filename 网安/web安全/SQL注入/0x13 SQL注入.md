@@ -1,3 +1,9 @@
+---
+tags:
+  - SQL
+  - CTF
+title: SQL注入
+---
 sql injection级关系
     服务器
         多个数据库
@@ -316,4 +322,4 @@ SQL 注入的报错注入（Error-Based SQL Injection）是一种通过诱使数
 
 
 
-[[CTFsomething/SQL_PLUS]]
+[[0x10 SQL_PLUS]]

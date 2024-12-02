@@ -1,3 +1,8 @@
+---
+tags:
+  - PHP
+title: php变量
+---
 # 特殊的变量[#](https://www.cnblogs.com/linfangnan/p/13521819.html#2892312890)
 
 ## 可变变量[#](https://www.cnblogs.com/linfangnan/p/13521819.html#1071586181)
