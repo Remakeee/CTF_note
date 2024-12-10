@@ -1,8 +1,10 @@
 ---
 profileName: Remakeee
-postId: '101'
+postId: "101"
 categories:
   - 12
+tags:
+  - CTF
 ---
 # 域名相关信息
 1. whois cnnic

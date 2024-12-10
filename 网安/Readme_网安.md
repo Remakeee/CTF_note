@@ -12,9 +12,3 @@ file.folder= "网安/windows安全"
 
 
 
-​```dataview
-table tags,title
-where file.folder="网安/web安全"
-sort rating desc
-​```
-
