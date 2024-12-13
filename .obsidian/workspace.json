@@ -17,9 +17,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "编码扩展"
+              }
             }
           },
           {
@@ -28,43 +26,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/web安全/SQL注入/0x11 SQL-labs.md",
-                "mode": "preview",
+                "file": "CTFsomething/Tool.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0x11 SQL-labs"
+              }
             }
           },
           {
-            "id": "39e2fba9cc6f324f",
+            "id": "4c8ae107dd144cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dataview/未命名 1.md",
-                "mode": "preview",
+                "file": "工作日记/日/2024-11-28.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "187a7e19aaf004bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/未命名.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              }
             }
           },
           {
@@ -77,9 +56,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "file_get_contents()"
+              }
             }
           },
           {
@@ -88,179 +65,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/web安全/文件上传（根据upload-labs）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "文件上传（根据upload-labs）"
-            }
-          },
-          {
-            "id": "c931594c5ab6cebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/文件上传.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "文件上传"
-            }
-          },
-          {
-            "id": "6a7175361dea8693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/信息收集/Readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "69877d0b19dd346c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/敏感目录泄露.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "敏感目录泄露"
-            }
-          },
-          {
-            "id": "8fc377148784bbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "f70e76d5f501eca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码审计.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "代码审计"
-            }
-          },
-          {
-            "id": "42454ed1168842ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作日记/日/2024-12-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-10"
-            }
-          },
-          {
-            "id": "757c3842d89324bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP代码审计.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PHP代码审计"
-            }
-          },
-          {
-            "id": "b1f84e7daca5c04e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/信息收集/Readme.md",
+                "file": "php变量.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readme"
+              }
             }
           },
           {
             "id": "c55a0367411401e1",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "网安/web安全/0x01 web_database.md"
-              },
-              "icon": "database-folder-icon",
-              "title": "0x01 web_database"
+                "file": "工作日记/日/2024-12-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "5eb4505fcc0a33db",
+            "id": "ba07c02cdef8c3ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/web安全/RCE(远程代码执行渗透与防御).md",
-                "mode": "source",
+                "file": "网安/web安全/XEE.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RCE(远程代码执行渗透与防御)"
+              }
             }
           },
           {
-            "id": "e6eb34397d13d1db",
+            "id": "7aae90d68ab6c7b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/CSRF.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSRF"
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -280,9 +127,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              }
             }
           },
           {
@@ -291,15 +136,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fping",
+                "query": "path:\"网安/web安全/文件包含参考文章/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
+              }
             }
           },
           {
@@ -307,16 +150,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 239.5
   },
   "right": {
     "id": "1fdcc0e01aec2d11",
@@ -331,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "state": {}
             }
           },
           {
@@ -342,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFsomething/Readme（by e搏杯）.md",
+                "file": "网安/web安全/XEE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,9 +189,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Readme（by e搏杯） 的反向链接列表"
+              }
             }
           },
           {
@@ -361,12 +198,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFsomething/Readme（by e搏杯）.md",
+                "file": "网安/web安全/XEE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Readme（by e搏杯） 的出链列表"
+              }
             }
           },
           {
@@ -377,9 +212,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              }
             }
           },
           {
@@ -391,9 +224,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              }
             }
           },
           {
@@ -402,10 +233,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFsomething/Readme（by e搏杯）.md"
-              },
-              "icon": "lucide-list",
-              "title": "Readme（by e搏杯） 的大纲"
+                "file": "网安/web安全/XEE.md"
+              }
             }
           }
         ],
@@ -420,9 +249,7 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "state": {}
             }
           }
         ]
@@ -441,60 +268,61 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-wordpress:发布到 WordPress": false,
       "dbfolder:创建一个新数据库表": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "757c3842d89324bf",
+  "active": "ba07c02cdef8c3ff",
   "lastOpenFiles": [
-    "代码审计.md",
-    "未命名 1.md",
-    "未命名.md",
-    "PHP代码审计.md",
-    "工作日记/日/2024-12-10.md",
-    "工作日记/日/2024-12-09.md",
     "网安/web安全/敏感目录泄露.md",
-    "PHP函数.md",
-    "php变量.md",
-    "MD5弱比较.md",
-    "HTTP伪造相关.md",
-    "HOME.md",
-    "file_get_contents().md",
-    "网安/web安全/SQL注入/0x13 SQL注入.md",
-    "网安/web安全/0x01 web_database.md",
+    "网安/web安全/逻辑漏洞.md",
     "网安/信息收集/Readme.md",
     "网安/信息收集/fping.md",
-    "网安/web安全/逻辑漏洞.md",
-    "BUGKU平台.md",
+    "图片/3a0f30b04f64eb55eb6b7d03c5302b0.png",
+    "网安/web安全/文件包含.md",
+    "网安/web安全/文件包含参考文章/狂雨cms代码审计：后台文件包含getshell.pdf",
+    "网安/web安全/文件包含参考文章/代码审计：PbootCMS2.07内核处理缺陷导致的一个前台任意文件包含漏洞分析.pdf",
+    "网安/web安全/文件包含参考文章/泛微E-Office9 前台文件包含.poc.md",
+    "网安/web安全/文件包含参考文章/spring-boot-actuator-logview 文件包含(CVE-2021-21234)漏洞分析.pdf",
+    "网安/web安全/文件包含参考文章/Pluck CMS 4.7.10 后台 文件包含+文件上传导致getshell代码分析.pdf",
+    "网安/web安全/文件包含参考文章/CVE-2018-12613 phpMyAdmin远程文件包含漏洞.pdf",
+    "网安/web安全/文件包含参考文章/在IKEA.com中的本地文件包含.pdf",
+    "网安/web安全/文件包含参考文章/通达OA文件上传及文件包含漏洞分析.pdf",
+    "网安/web安全/文件包含参考文章/通达OA文件上传+任意文件包含漏洞分析.pdf",
+    "网安/web安全/文件包含参考文章/通达OA文件上传&文件包含导致RCE浅析.pdf",
+    "网安/web安全/文件包含参考文章/通达OA任意文件上传文件包含GetShell.pdf",
+    "网安/web安全/文件上传.md",
+    "网安/web安全/文件上传（根据upload-labs）.md",
+    "CTFsomething/Readme（by e搏杯）.md",
+    "网安/web安全/0x01 web_database.md",
+    "网安/web安全/Readme.md",
+    "网安/web安全/RCE(远程代码执行渗透与防御).md",
+    "网安/web安全/JWT渗透和防御.md",
+    "网安/web安全/CSRF.md",
+    "网安/web安全/SQL注入/0x13 SQL注入.md",
+    "网安/web安全/SQL注入/0x10 SQL_PLUS.md",
+    "网安/web安全/SQL注入/0x11 SQL-labs.md",
+    "网安/web安全/SQL注入/0x12 SQL速查表.md",
+    "网安/web安全/中间件漏洞.md",
+    "网安/web安全/XEE.md",
+    "网安/web安全/XSS.md",
+    "网安/web安全/SSTI.md",
+    "网安/web安全/SSRF漏洞(服务器端请求伪造).md",
+    "file_get_contents().md",
     "addslashes.md",
-    "小工具.md",
-    "伪协议.md",
-    "苹果密码破解.md",
-    "网安/misc/信息收集.md",
-    "备忘录.md",
-    "网安/Android安全/Android软件安全与逆向分析_带书签.pdf",
-    "dataview",
-    "网安/web安全/SQL注入",
+    "PHP代码审计.md",
     "图片/Pasted image 20241202193038.png",
     "图片/Pasted image 20241202192235.png",
-    "网安/web安全",
     "图片/Pasted image 20241201092651.png",
     "图片/Pasted image 20241201092635.png",
     "图片/Pasted image 20241128190622.png",
     "图片/Pasted image 20241128185838.png",
     "图片/Pasted image 20241128185550.png",
     "图片/Pasted image 20241128175642.png",
-    "图片/Pasted image 20241128174911.png",
-    "图片/Pasted image 20241126223901.png",
-    "未归纳",
-    "vuln03-CSRF漏洞-笔记.pdf",
-    "工作日记/日",
-    "工作日记",
-    "CTFsomething",
-    "vuln03-CSRF漏洞-笔记.pdf.crdownload"
+    "图片/Pasted image 20241128174911.png"
   ]
 }
