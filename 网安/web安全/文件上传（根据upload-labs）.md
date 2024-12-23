@@ -1,3 +1,8 @@
+---
+tags:
+  - CTF
+  - 文件上传
+---
 # 1.前端js绕过
 
 
@@ -18,14 +23,14 @@ httpd.conf-》写入add php3....
 # 4.    .htaccess文件绕过
 .htaccess文件
 `AddType application/x-httpd-php .txt .jpg`
-
+[文件上传--利用.htaccess绕过黑名单 - sijidou - 博客园](https://www.cnblogs.com/sijidou/p/13111905.html)
 
 
 
 
 # 5.    .user.ini绕过
 大于5.3最好大于7.0
-
+[.user.ini导致文件上传绕过 - sijidou - 博客园](https://www.cnblogs.com/sijidou/p/13121301.html)
 
 
 

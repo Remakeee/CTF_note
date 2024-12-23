@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "编码扩展"
             }
           },
           {
@@ -26,24 +28,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFsomething/Tool.md",
+                "file": "攻防世界/攻防世界.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "攻防世界"
             }
           },
           {
-            "id": "4c8ae107dd144cdd",
+            "id": "c1891a2496798962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日记/日/2024-11-28.md",
+                "file": "攻防世界/easy_web.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "easy_web"
+            }
+          },
+          {
+            "id": "079e32439d60dcce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日记/日/2024-12-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-23"
+            }
+          },
+          {
+            "id": "258553cc53af6896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "字符串逃逸.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "字符串逃逸"
             }
           },
           {
@@ -56,7 +92,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "file_get_contents()"
             }
           },
           {
@@ -69,7 +107,9 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "php变量"
             }
           },
           {
@@ -78,11 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日记/日/2024-12-11.md",
+                "file": "攻防世界.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "攻防世界"
             }
           },
           {
@@ -91,11 +133,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/web安全/XEE.md",
+                "file": "网安/web安全/RCE(远程代码执行渗透与防御).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "RCE(远程代码执行渗透与防御)"
+            }
+          },
+          {
+            "id": "5dc709f841ee67f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网安/web安全/CSRF.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSRF"
+            }
+          },
+          {
+            "id": "f616b290f5a5d21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网安/web安全/SSTI.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSTI"
             }
           },
           {
@@ -103,11 +177,13 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +203,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -136,13 +214,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"网安/web安全/文件包含参考文章/\" ",
+                "query": "ssrf",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -150,10 +230,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +255,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -181,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网安/web安全/XEE.md",
+                "file": "PHP代码审计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +274,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "PHP代码审计 的反向链接列表"
             }
           },
           {
@@ -198,10 +285,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网安/web安全/XEE.md",
+                "file": "PHP代码审计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "PHP代码审计 的出链列表"
             }
           },
           {
@@ -212,7 +301,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -224,7 +315,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -233,8 +326,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网安/web安全/XEE.md"
-              }
+                "file": "PHP代码审计.md"
+              },
+              "icon": "lucide-list",
+              "title": "PHP代码审计 的大纲"
             }
           }
         ],
@@ -249,7 +344,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -272,57 +369,57 @@
       "dbfolder:创建一个新数据库表": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ba07c02cdef8c3ff",
+  "active": "079e32439d60dcce",
   "lastOpenFiles": [
-    "网安/web安全/敏感目录泄露.md",
-    "网安/web安全/逻辑漏洞.md",
-    "网安/信息收集/Readme.md",
-    "网安/信息收集/fping.md",
-    "图片/3a0f30b04f64eb55eb6b7d03c5302b0.png",
-    "网安/web安全/文件包含.md",
+    "网安/web安全/SSRF漏洞(服务器端请求伪造).md",
+    "工作日记/日/2024-12-23.md",
+    "攻防世界/SSRF ME.md",
+    "攻防世界/easy_web.md",
+    "工作日记/日/2024-12-22.md",
+    "网安/web安全/SSTI.md",
+    "攻防世界/图片/Pasted image 20241222002736.png",
+    "攻防世界/图片/Pasted image 20241222002631.png",
+    "攻防世界/图片/Pasted image 20241222002351.png",
+    "攻防世界/图片/Pasted image 20241222001741.png",
+    "攻防世界/图片/Pasted image 20241222001634.png",
+    "攻防世界/图片/Pasted image 20241222001433.png",
+    "攻防世界/图片/Pasted image 20241222001420.png",
+    "攻防世界/图片",
+    "攻防世界/攻防世界.md",
+    "攻防世界",
+    "图片/Pasted image 20241222000053.png",
+    "图片/Pasted image 20241221235449.png",
+    "图片/Pasted image 20241221235325.png",
+    "网安/web安全/Readme.md",
+    "字符串逃逸.md",
+    "网安/web安全/SQL注入/0x10 SQL_PLUS.md",
+    "网安/web安全/SQL注入/0x11 SQL-labs.md",
+    "网安/web安全/SQL注入/0x13 SQL注入.md",
+    "工作日记/日/2024-12-21.md",
+    "工作日记/日/2024-12-20.md",
+    "工作日记/日/2024-12-19.md",
+    "工作日记/日/2024-12-16.md",
+    "工作日记/日/2024-12-13.md",
+    "工作日记/日/2024-12-15.md",
+    "工作日记/日/2024-12-11.md",
+    "工作日记/日/2024-12-08.md",
+    "工作日记/日/2024-12-01.md",
+    "工作日记/日/2024-11-26.md",
+    "工作日记/日/2024-11-25.md",
+    "工作日记/日/2024-12-02.md",
+    "工作日记/日/2024-12-03.md",
+    "工作日记/日/2024-12-04.md",
     "网安/web安全/文件包含参考文章/狂雨cms代码审计：后台文件包含getshell.pdf",
     "网安/web安全/文件包含参考文章/代码审计：PbootCMS2.07内核处理缺陷导致的一个前台任意文件包含漏洞分析.pdf",
-    "网安/web安全/文件包含参考文章/泛微E-Office9 前台文件包含.poc.md",
     "网安/web安全/文件包含参考文章/spring-boot-actuator-logview 文件包含(CVE-2021-21234)漏洞分析.pdf",
     "网安/web安全/文件包含参考文章/Pluck CMS 4.7.10 后台 文件包含+文件上传导致getshell代码分析.pdf",
     "网安/web安全/文件包含参考文章/CVE-2018-12613 phpMyAdmin远程文件包含漏洞.pdf",
     "网安/web安全/文件包含参考文章/在IKEA.com中的本地文件包含.pdf",
     "网安/web安全/文件包含参考文章/通达OA文件上传及文件包含漏洞分析.pdf",
-    "网安/web安全/文件包含参考文章/通达OA文件上传+任意文件包含漏洞分析.pdf",
-    "网安/web安全/文件包含参考文章/通达OA文件上传&文件包含导致RCE浅析.pdf",
-    "网安/web安全/文件包含参考文章/通达OA任意文件上传文件包含GetShell.pdf",
-    "网安/web安全/文件上传.md",
-    "网安/web安全/文件上传（根据upload-labs）.md",
-    "CTFsomething/Readme（by e搏杯）.md",
-    "网安/web安全/0x01 web_database.md",
-    "网安/web安全/Readme.md",
-    "网安/web安全/RCE(远程代码执行渗透与防御).md",
-    "网安/web安全/JWT渗透和防御.md",
-    "网安/web安全/CSRF.md",
-    "网安/web安全/SQL注入/0x13 SQL注入.md",
-    "网安/web安全/SQL注入/0x10 SQL_PLUS.md",
-    "网安/web安全/SQL注入/0x11 SQL-labs.md",
-    "网安/web安全/SQL注入/0x12 SQL速查表.md",
-    "网安/web安全/中间件漏洞.md",
-    "网安/web安全/XEE.md",
-    "网安/web安全/XSS.md",
-    "网安/web安全/SSTI.md",
-    "网安/web安全/SSRF漏洞(服务器端请求伪造).md",
-    "file_get_contents().md",
-    "addslashes.md",
-    "PHP代码审计.md",
-    "图片/Pasted image 20241202193038.png",
-    "图片/Pasted image 20241202192235.png",
-    "图片/Pasted image 20241201092651.png",
-    "图片/Pasted image 20241201092635.png",
-    "图片/Pasted image 20241128190622.png",
-    "图片/Pasted image 20241128185838.png",
-    "图片/Pasted image 20241128185550.png",
-    "图片/Pasted image 20241128175642.png",
-    "图片/Pasted image 20241128174911.png"
+    "网安/web安全/文件包含参考文章/通达OA文件上传+任意文件包含漏洞分析.pdf"
   ]
 }
