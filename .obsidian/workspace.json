@@ -43,28 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码审计.md",
+                "file": "ctf题/攻防世界/weiphp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代码审计"
-            }
-          },
-          {
-            "id": "b2c9322d2eee2a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clr.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "clr"
+              "title": "weiphp"
             }
           },
           {
@@ -98,112 +83,37 @@
             }
           },
           {
-            "id": "258553cc53af6896",
+            "id": "8ee197a9aeb052f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "字符串逃逸.md",
+                "file": "ctf题/攻防世界/easylaravel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "字符串逃逸"
+              "title": "easylaravel"
             }
           },
           {
-            "id": "30b28954350a739e",
+            "id": "fe16a033d6be0361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file_get_contents().md",
+                "file": "ctf题/攻防世界/weiphp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file_get_contents()"
-            }
-          },
-          {
-            "id": "d1ad3d21fd7e26ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "php变量.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "php变量"
-            }
-          },
-          {
-            "id": "c55a0367411401e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "攻防世界.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "攻防世界"
-            }
-          },
-          {
-            "id": "ba07c02cdef8c3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/RCE(远程代码执行渗透与防御).md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RCE(远程代码执行渗透与防御)"
-            }
-          },
-          {
-            "id": "5dc709f841ee67f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/CSRF.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSRF"
-            }
-          },
-          {
-            "id": "f616b290f5a5d21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/SSTI.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSTI"
+              "title": "weiphp"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "order",
+                "query": "githack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP代码审计.md",
+                "file": "网安/信息收集/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PHP代码审计 的出链列表"
+              "title": "Readme 的出链列表"
             }
           },
           {
@@ -392,21 +302,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2c9322d2eee2a6f",
+  "active": "832209e4ec0a873b",
   "lastOpenFiles": [
+    "ctf题/攻防世界/图片/Pasted image 20241227210203.png",
+    "ctf题/攻防世界/图片/Pasted image 20241227210153.png",
+    "ctf题/攻防世界/图片/Pasted image 20241227204311.png",
+    "ctf题/攻防世界/攻防世界.md",
     "代码审计.md",
-    "clr.md",
-    "网安/未命名.md",
+    "工作日记/日/2024-12-24.md",
+    "ctf题/攻防世界/weiphp.md",
+    "php变量.md",
+    "字符串逃逸.md",
+    "工作日记/日/2024-12-27.md",
+    "工作日记/日/2024-12-26.md",
+    "网安/信息收集/Readme.md",
+    "网安/web安全/敏感目录泄露.md",
     "ctf题/BUGKU平台.md",
+    "CTF_web常规手段.md",
+    "clr.md",
+    "ctf题/攻防世界/easylaravel.md",
+    "ctf题/攻防世界/图片/Pasted image 20241224184419.png",
+    "网安/web安全/SQL注入/0x10 SQL_PLUS.md",
+    "网安/未命名.md",
     "ctf题",
     "ctf题/bugku",
-    "ctf题/攻防世界/攻防世界.md",
     "ctf题/攻防世界/easy_web.md",
     "ctf题/攻防世界/SSRF ME.md",
     "ctf题/攻防世界/EZSQLI.md",
     "网安/web安全/SQL注入/0x11 SQL-labs.md",
     "网安/web安全/SQL注入/0x13 SQL注入.md",
-    "网安/web安全/SQL注入/0x10 SQL_PLUS.md",
     "ctf题/攻防世界/图片/Pasted image 20241223153250.png",
     "ctf题/攻防世界/图片/Pasted image 20241223153116.png",
     "ctf题/攻防世界/图片/Pasted image 20241223152440.png",
@@ -416,24 +340,10 @@
     "网安/web安全/SSTI.md",
     "工作日记/日/2024-12-23.md",
     "网安/web安全/SSRF漏洞(服务器端请求伪造).md",
-    "工作日记/日/2024-12-22.md",
     "ctf题/攻防世界/图片/Pasted image 20241222002736.png",
     "ctf题/攻防世界/图片/Pasted image 20241222002631.png",
-    "ctf题/攻防世界/图片/Pasted image 20241222002351.png",
-    "ctf题/攻防世界/图片/Pasted image 20241222001741.png",
-    "ctf题/攻防世界/图片/Pasted image 20241222001634.png",
     "ctf题/攻防世界/图片",
     "ctf题/攻防世界",
-    "网安/web安全/Readme.md",
-    "字符串逃逸.md",
-    "工作日记/日/2024-12-21.md",
-    "工作日记/日/2024-12-20.md",
-    "工作日记/日/2024-12-19.md",
-    "工作日记/日/2024-12-16.md",
-    "工作日记/日/2024-12-13.md",
-    "工作日记/日/2024-12-15.md",
-    "工作日记/日/2024-12-11.md",
-    "工作日记/日/2024-12-08.md",
     "网安/web安全/文件包含参考文章/狂雨cms代码审计：后台文件包含getshell.pdf",
     "网安/web安全/文件包含参考文章/代码审计：PbootCMS2.07内核处理缺陷导致的一个前台任意文件包含漏洞分析.pdf",
     "网安/web安全/文件包含参考文章/spring-boot-actuator-logview 文件包含(CVE-2021-21234)漏洞分析.pdf",
