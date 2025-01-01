@@ -17,24 +17,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "编码扩展"
-            }
-          },
-          {
-            "id": "8190749cb162d34e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网安/web安全/SQL注入/0x11 SQL-labs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0x11 SQL-labs"
+              }
             }
           },
           {
@@ -133,9 +116,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              }
             }
           },
           {
@@ -147,12 +128,10 @@
                 "query": "githack",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
+              }
             }
           },
           {
@@ -160,16 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 239.5
   },
   "right": {
     "id": "1fdcc0e01aec2d11",
@@ -184,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -195,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP代码审计.md",
+                "file": "溯源.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,9 +178,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "PHP代码审计 的反向链接列表"
+              }
             }
           },
           {
@@ -230,9 +203,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              }
             }
           },
           {
@@ -244,9 +215,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              }
             }
           },
           {
@@ -255,10 +224,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP代码审计.md"
-              },
-              "icon": "lucide-list",
-              "title": "PHP代码审计 的大纲"
+                "file": "溯源.md"
+              }
             }
           }
         ],
@@ -273,16 +240,15 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,8 +264,8 @@
       "dbfolder:创建一个新数据库表": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "832209e4ec0a873b",
@@ -338,6 +304,14 @@
     "ctf题/攻防世界/图片/Pasted image 20241223143553.png",
     "网安/misc/编码扩展.md",
     "网安/web安全/SSTI.md",
+    "网安/web安全/图片/Pasted image 20241230142112.png",
+    "网安/web安全/图片/Pasted image 20241230142059.png",
+    "网安/web安全/图片",
+    "ctf题/攻防世界/easy_web.md",
+    "ctf题/攻防世界/EZSQLI.md",
+    "ctf题/攻防世界/SSRF ME.md",
+    "网安/web安全/XEE.md",
+    "网安/web安全/关于XSS，SSRF，CSRF的区别.md",
     "工作日记/日/2024-12-23.md",
     "网安/web安全/SSRF漏洞(服务器端请求伪造).md",
     "ctf题/攻防世界/图片/Pasted image 20241222002736.png",
@@ -348,7 +322,6 @@
     "网安/web安全/文件包含参考文章/代码审计：PbootCMS2.07内核处理缺陷导致的一个前台任意文件包含漏洞分析.pdf",
     "网安/web安全/文件包含参考文章/spring-boot-actuator-logview 文件包含(CVE-2021-21234)漏洞分析.pdf",
     "网安/web安全/文件包含参考文章/Pluck CMS 4.7.10 后台 文件包含+文件上传导致getshell代码分析.pdf",
-    "网安/web安全/文件包含参考文章/CVE-2018-12613 phpMyAdmin远程文件包含漏洞.pdf",
-    "网安/web安全/文件包含参考文章/在IKEA.com中的本地文件包含.pdf"
+    "网安/web安全/文件包含参考文章/CVE-2018-12613 phpMyAdmin远程文件包含漏洞.pdf"
   ]
 }
