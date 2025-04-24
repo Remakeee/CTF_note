@@ -12,7 +12,7 @@ CNVD-2021-30101 网康
 **PHP RCE涉及函数**
 命令commond注入
 system()
-exec()/shell_exec()
+exec("ls")/shell_exec()
 pcntl_exec()
 passthru()
 popen()

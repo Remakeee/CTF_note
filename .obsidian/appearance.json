@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "enlarge-image-on-hover"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
