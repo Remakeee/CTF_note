@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日记/日/2025-04-24.md",
+                "file": "网安/misc/流量分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-24"
+              "title": "流量分析"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "密码",
+                "query": "流量",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "1fdcc0e01aec2d11",
@@ -226,53 +225,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f4cc98bf4998cb02",
+  "active": "a96a692d887da3c1",
   "lastOpenFiles": [
-    "网安/取证/0418考核.md",
+    "网安/取证/数证/数证杯_个人.md",
+    "网安/取证/数证/数证杯-初赛.md",
+    "网安/取证/数证/图片/Pasted image 20250424151722.png",
+    "网安/取证/数证/图片/图片/Pasted image 20250424151942.png",
+    "网安/取证/数证/图片/图片",
+    "网安/取证/数证/图片/Pasted image 20250424151433.png",
+    "网安/取证/数证/图片/Pasted image 20250424150137.png",
+    "网安/取证/数证/图片/Pasted image 20250424145905.png",
+    "网安/取证/数证/图片/Pasted image 20250424145903.png",
+    "网安/取证/数证/图片",
+    "网安/取证/未命名 1.md",
+    "网安/取证/数证",
+    "网安/取证/未命名.md",
+    "网安/取证/上海比武-个人赛.md",
+    "网安/misc/流量分析.md",
+    "网安/取证/服务器以及k8s.md",
+    "网安/取证/服务器取证.md",
+    "网安/逆向/未命名.md",
+    "大学/操作系统/操作系统.md",
+    "网安/逆向/windows逆向.md",
     "工作日记/日/2025-04-24.md",
+    "网安/取证/0418考核.md",
     "网安/取证/图片/Pasted image 20250418173013.png",
     "网安/取证/图片/Pasted image 20250418143525.png",
     "网安/取证/图片/Pasted image 20250418165713.png",
     "网安/取证/图片/Pasted image 20250418165917.png",
-    "网安/取证/图片/Pasted image 20250418165530.png",
-    "网安/取证/图片/Pasted image 20250418165440.png",
-    "网安/取证/图片/Pasted image 20250418165042.png",
-    "网安/取证/图片/Pasted image 20250418165008.png",
-    "网安/取证/图片/Pasted image 20250418164853.png",
-    "网安/取证/图片/Pasted image 20250418162119.png",
     "网安/红队/企业基础设施攻击与红队行动.md",
-    "网安/取证/数证杯-团体.md",
+    "网安/取证/数证/数证杯-团体.md",
     "网安/取证/volatility.md",
     "网安/取证/Readme.md",
     "网安/取证/GPS取证.md",
     "网安/取证/移动设备取证.md",
     "网安/取证/未命名 3.md",
-    "网安/取证/未命名 1.md",
-    "网安/取证/未命名.md",
-    "网安/取证/数证杯_蓝.md",
-    "网安/取证/数证杯_个人.md",
+    "网安/取证/数证/数证杯_蓝.md",
     "MD5弱比较.md",
     "工作日记/日/2025-04-18.md",
     "工作日记/日/2025-04-17.md",
     "多java版本安装（mac）.md",
-    "大学/论文/VIT.md",
-    "大学/论文/Readme.md",
-    "大学/论文/基于InceptionResNetV2和BiLSTM进行深度伪造视频检测.md",
     "大学/取证/Linux命令大全搜索工具 v1.5.1.pdf",
-    "网安/取证/上海比武-个人赛.md",
-    "网安/取证/上海比武-团体.md",
-    "officeai助手.md",
-    "HTTP伪造相关.md",
-    "file_get_contents().md",
-    "CTF_web常规手段.md",
     "网安/取证/图片/图片/图片/图片/图片",
     "网安/取证/图片/图片/图片/图片",
     "网安/红队",
     "网安/取证/图片/图片/图片",
     "网安/取证/图片/图片",
-    "网安/取证/图片",
-    "网安/取证",
-    "ctf题/图片",
-    "网安/Android安全/Android软件安全与逆向分析_带书签.pdf"
+    "网安/取证/图片"
   ]
 }
