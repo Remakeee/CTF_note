@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/misc/流量分析.md",
+                "file": "工作日记/日/2025-05-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,71 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "流量分析"
+              "title": "2025-05-10"
+            }
+          },
+          {
+            "id": "8a10f8ce4ead342e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日记/日/2025-06-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-05"
+            }
+          },
+          {
+            "id": "6a0f97174f6e89d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "盘古石.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "盘古石"
+            }
+          },
+          {
+            "id": "3f4ca1e36f8a003a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "网安/取证/电子数据取证之宝塔面板_宝塔取证-CSDN博客.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "电子数据取证之宝塔面板_宝塔取证-CSDN博客"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "流量",
+                "query": "bt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fdcc0e01aec2d11",
@@ -225,52 +287,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a96a692d887da3c1",
+  "active": "6a0f97174f6e89d9",
   "lastOpenFiles": [
+    "图片/Pasted image 20250605093105.png",
+    "工作日记/日/2025-06-05.md",
+    "盘古石.md",
+    "工作日记/日/2025-05-26.md",
+    "2025盘古石.md",
+    "图片/Pasted image 20250510180350.png",
+    "图片/Pasted image 20250510131557.png",
+    "图片/图片/Pasted image 20250510133220.png",
+    "图片/图片",
+    "工作日记/日/2025-05-10.md",
+    "2025上海联赛/团体赛.md",
+    "网安/取证/数证/数证杯-团体.md",
+    "工作日记/日/2025-05-07.md",
+    "2025上海联赛/图片/Pasted image 20250429104352.png",
+    "2025上海联赛/图片/Pasted image 20250429093127.png",
+    "2025上海联赛/图片/Pasted image 20250429125913.png",
+    "2025上海联赛/图片/Pasted image 20250429125630.png",
+    "2025上海联赛/图片/Pasted image 20250429125119.png",
+    "2025上海联赛/个人赛.md",
+    "2025上海联赛/图片/Pasted image 20250429111726.png",
+    "2025上海联赛/图片/Pasted image 20250429104044.png",
+    "网安/取证/Kubernetes（K8S）集群服务器取证详解 _ CN-SEC 中文网.pdf",
+    "网安/取证/Readme.md",
+    "网安/取证/上海比武-团体.md",
+    "网安/取证/上海比武-个人赛.md",
+    "网安/取证/数证/数证杯_蓝.md",
     "网安/取证/数证/数证杯_个人.md",
     "网安/取证/数证/数证杯-初赛.md",
-    "网安/取证/数证/图片/Pasted image 20250424151722.png",
-    "网安/取证/数证/图片/图片/Pasted image 20250424151942.png",
+    "工作日记/日/2025-04-29.md",
+    "网安/取证/电子数据取证之宝塔面板_宝塔取证-CSDN博客.pdf",
+    "工作日记/日/2025-04-28.md",
+    "网安/misc/流量分析.md",
+    "网安/取证/2025“獬豸杯”全国电子数据取证竞赛-k8s服务器取证wp_2025獬豸杯-CSDN博客.pdf",
+    "网安/信息收集/Readme.md",
+    "2025上海联赛/图片",
+    "工作日记/日/2025-04-27.md",
+    "2025上海联赛",
+    "网安/取证/服务器以及k8s.md",
+    "网安/逆向/apk逆向.md",
+    "工作日记/日/2025-04-25.md",
     "网安/取证/数证/图片/图片",
-    "网安/取证/数证/图片/Pasted image 20250424151433.png",
-    "网安/取证/数证/图片/Pasted image 20250424150137.png",
-    "网安/取证/数证/图片/Pasted image 20250424145905.png",
-    "网安/取证/数证/图片/Pasted image 20250424145903.png",
     "网安/取证/数证/图片",
     "网安/取证/未命名 1.md",
     "网安/取证/数证",
     "网安/取证/未命名.md",
-    "网安/取证/上海比武-个人赛.md",
-    "网安/misc/流量分析.md",
-    "网安/取证/服务器以及k8s.md",
-    "网安/取证/服务器取证.md",
-    "网安/逆向/未命名.md",
-    "大学/操作系统/操作系统.md",
-    "网安/逆向/windows逆向.md",
-    "工作日记/日/2025-04-24.md",
-    "网安/取证/0418考核.md",
-    "网安/取证/图片/Pasted image 20250418173013.png",
-    "网安/取证/图片/Pasted image 20250418143525.png",
-    "网安/取证/图片/Pasted image 20250418165713.png",
-    "网安/取证/图片/Pasted image 20250418165917.png",
-    "网安/红队/企业基础设施攻击与红队行动.md",
-    "网安/取证/数证/数证杯-团体.md",
-    "网安/取证/volatility.md",
-    "网安/取证/Readme.md",
-    "网安/取证/GPS取证.md",
-    "网安/取证/移动设备取证.md",
-    "网安/取证/未命名 3.md",
-    "网安/取证/数证/数证杯_蓝.md",
-    "MD5弱比较.md",
-    "工作日记/日/2025-04-18.md",
-    "工作日记/日/2025-04-17.md",
-    "多java版本安装（mac）.md",
-    "大学/取证/Linux命令大全搜索工具 v1.5.1.pdf",
-    "网安/取证/图片/图片/图片/图片/图片",
-    "网安/取证/图片/图片/图片/图片",
-    "网安/红队",
-    "网安/取证/图片/图片/图片",
-    "网安/取证/图片/图片",
-    "网安/取证/图片"
+    "大学/取证/Linux命令大全搜索工具 v1.5.1.pdf"
   ]
 }
